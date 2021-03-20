@@ -37,7 +37,7 @@ Hoàn thành các task bên dưới theo để xây dựng một ứng dụng ho
 - Cập nhật các thông tin có sẵn
 - Hiển thị email nhưng không cho cập nhật
 
-### Task nâng cao (Không bắt buộc, ứng viên sẽ note lại ứng task mình đã làm)
+### Task nâng cao (Không bắt buộc, ứng viên sẽ note lại những task mình đã làm)
 
 - Validate email
 - Generate username từ fullname (Frontend & Backend nếu không tồn tại)
