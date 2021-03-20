@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Variable
+variables.env
+# misc
+.DS_Store
+
+#history
+.history
