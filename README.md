@@ -29,7 +29,7 @@ Hoàn thành các task bên dưới theo để xây dựng một ứng dụng ho
 - Mỗi trang sẽ có 5 user
 - Có phân trang
 - View list dưới dạng table
-- Có lọc theo trạng thái
+- Có filter theo status
 
 #### Task 3: Xây dựng trang cập nhật user
 
@@ -40,11 +40,11 @@ Hoàn thành các task bên dưới theo để xây dựng một ứng dụng ho
 ### Task nâng cao (Không bắt buộc, ứng viên sẽ note lại ứng task mình đã làm)
 
 - Validate email
-- Generate username từ fullname (fronten & backend nếu không tồn tại)
+- Generate username từ fullname (Frontend & Backend nếu không tồn tại)
 - Mỗi row trên table có Toogle box để cập nhật field "deleted"
 - Thêm filter theo ngày tháng tạo user dựa trên "createdAt"
 - Authentication dựa trên header với Token Bearer: Authorization: Bearer <token>
-- Ngăn chặn các tấn công từ bên ngoài (ddos, xxs, sql injection, ...)
+- Ngăn chặn các tấn công từ bên ngoài (ddos, xss, sql injection, ...)
 
 ### Cấu trúc database
 
