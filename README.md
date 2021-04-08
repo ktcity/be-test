@@ -1,7 +1,7 @@
 # Fullstack Developer Test
 
 Hoàn thành các task bên dưới theo để xây dựng một ứng dụng hoàn chỉnh.
-<span style="color:red">Lưu ý:</span>.
+###*Lưu ý:*
   - Đối với những ứng viên Backend Developer chỉ cần viết các endpoint API
   - Đối với những ứng viên Frontend Developer chỉ cần hoàn thành UI các page theo yêu cầu
 ## Một số yêu cầu
